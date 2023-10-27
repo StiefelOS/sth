@@ -3,6 +3,7 @@
   "displayName": "SAP DM Skript Task Helper",
   "description": "",
   "version": "0.0.1",
+  "publisher": "d4rkm0d3",
   "engines": {
     "vscode": "^1.76.0"
   },
