@@ -1,2 +1,6 @@
-# dm_sth
-sap dm script task helper
+Usage:
+
+-> open ScriptTask Script
+-> Run command "DMC: Generate Input/Ouput
+
+
