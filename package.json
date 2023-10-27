@@ -1,6 +1,6 @@
 {
-  "name": "stiog",
-  "displayName": "Script Task Input/Output Generator",
+  "name": "dm_sth",
+  "displayName": "SAP DM Skript Task Helper",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "stiog.generateInputOutput",
-        "title": "DMC: Generate Input/Output"
+        "command": "sth.generateInputOutput",
+        "title": "DM: Generate Input/Output"
       }
     ]
   },

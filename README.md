@@ -1,6 +1,6 @@
 Usage:
 
 -> open ScriptTask Script
--> Run command "DMC: Generate Input/Ouput
+-> Run command "DM: Generate Input/Ouput"
 
 
