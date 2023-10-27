@@ -7,6 +7,14 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "galleryBanner": {
+    "color": "#00C800",
+    "theme": "dark"
+  },
+  "pricing": "Free",
+  "author": {
+    "name": "d4rkm0d3"
+  },
   "categories": [
     "Other"
   ],
@@ -20,6 +28,11 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StiefelOS/dm_sth.git"
+  },
+  "homepage": "https://d4rkm0d3.com",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
